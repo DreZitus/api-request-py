@@ -8,3 +8,7 @@ if res:
     print('resposta OK')
 else:
     print('Resposta falhou')
+
+print(res.headers)
+
+#rode usando python scripy.py no terminal
