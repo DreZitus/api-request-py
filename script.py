@@ -10,5 +10,6 @@ else:
     print('Resposta falhou')
 
 print(res.headers)
+print(res.text)
 
 #rode usando python scripy.py no terminal
