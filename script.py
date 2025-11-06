@@ -9,7 +9,7 @@ if res:
 else:
     print('Resposta falhou')
 
-##print(res.headers)
+print(res.headers)
 int(res.text)
 
 
